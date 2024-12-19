@@ -7,7 +7,7 @@ best_model = YOLO("best.pt")
 reader = easyocr.Reader(['en'])
 
 
-inputfolder = 'images'
+inputfolder = 'Image'
 outputfolder = 'outputresults'
 
 
